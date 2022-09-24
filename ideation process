@@ -1,0 +1,9 @@
+A Novel Method for Handwritten Digit Recognition System
+
+              Humans can visually sense the world around them by using their sensory organs and brain. Computer vision works on enabling computers 
+to see and process images in the same way that human vision does. Several algorithms developed in the area of computer vision to recognize images. 
+The goal of this work is to create a modle to identify and determine the handwritten digits from its datasets with better accuracy and aim to complete 
+this by using the concept of Convolutional Network and MNIST dataset. A method called Soft Max Regression is used for assigning the probabilities to 
+handwritten digits. Though the goal is to create a modle which can recognize digits but can extend for letters and then a person's handwriting.Through
+ this work,people can learn and practically apply the concepts of Convolutional Neural Networks.
+ 
